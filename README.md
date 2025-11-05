@@ -40,7 +40,7 @@ Bu proje, **Firebase Firestore** altyapısı ile gerçek zamanlı veri akışı 
 | **ESLint** | Kod kalitesi ve düzeni |
 
 ### EKRAN GÖRÜNTÜSÜ
-![EkranKayd2025-11-05170315-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/84cf5aea-b412-44b6-8d0b-27e63e403883)
+![EkranKayd2025-11-05171711-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4a2d22fc-3ab3-46a2-8f19-9d6f8af92ad3)
 
 
 
